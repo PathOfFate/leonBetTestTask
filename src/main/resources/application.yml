@@ -1,0 +1,8 @@
+report:
+  file-path: report.txt
+
+web-client:
+  base-url: https://leonbets.com
+  all-sports-path: /api-2/betline/sports
+  event-path: /api-2/betline/event/all
+  all-events-path: /api-2/betline/events/all
